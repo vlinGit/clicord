@@ -1,0 +1,9 @@
+ignoreThis/
+cliApp/dist
+cliApp/build
+cliApp/clicord.egg-info
+cliApp/__pycache__
+cliApp/packages
+cliApp/pyproject.toml
+cliApp/setup.py
+*.whl

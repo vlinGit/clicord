@@ -5,8 +5,8 @@ WIP discord cli program
 clicord is a small project I'm working on that allows for a cli interface for discord text communication. Not really sure how advance I want this to be but the general features I want is to be able to send/delete/view messages from a specified channel in discord. 
 
 ### How to use
-Download the repo to your machine and run it with python
-
+Click on a release version and follow the instructions to install
+ 
 You'll need your auth token which can be found by doing the following:
 
 **IMPORTANT**: DO NOT SHARE YOUR AUTH TOKEN!!!
@@ -30,19 +30,16 @@ Now for the actual command:
 
 Replace the parts with brackets with the information you have obtained and click enter. You'll be shown a brief history of the messages in the channel and be prompted to enter a message. Type whatever you want and click enter and your message will show up in the channel. 
 
-### Terminating the program
-If you want to terminate the program press CTRL+C.
-
 ### Messaging with a bot
 Add a `b` flag to the command and use the bot's auth token:
 
 <code>python clicord.py -b -s \<bot auth token\> \<channel id\></code>
 
+### Terminating the program
+If you want to terminate the program press CTRL+C.
+
 ### TODO
 <ul>
-<li>Message history (In the progress)</li>
-<li>Active message feed (In the progress)</li>
-<li>Actual CLI call</li>
 <li>Delete message</li>
 <li>OAuth (You currently must know your auth token)</li>
 </ul>
