@@ -1,6 +1,9 @@
 # clicord
 WIP discord cli program
 
+#DISCLAIMER
+I am not responsible for anything that may occur with the use of this program. 
+
 ### About
 clicord is a small project I'm working on that allows for a cli interface for discord text communication. Not really sure how advance I want this to be but the general features I want is to be able to send/delete/view messages from a specified channel in discord. 
 
