@@ -1,7 +1,7 @@
 # clicord
 WIP discord cli program
 
-#DISCLAIMER
+# DISCLAIMER
 I am not responsible for anything that may occur with the use of this program. 
 
 ### About
