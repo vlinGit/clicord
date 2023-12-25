@@ -40,9 +40,3 @@ Add a `b` flag to the command and use the bot's auth token:
 
 ### Terminating the program
 If you want to terminate the program press CTRL+C.
-
-### TODO
-<ul>
-<li>Delete message</li>
-<li>OAuth (You currently must know your auth token)</li>
-</ul>
