@@ -1,5 +1,5 @@
 # clicord
-WIP discord cli program
+Discord CLI program
 
 # DISCLAIMER
 I am not responsible for anything that may occur with the use of this program. If you get banned for violating TOS or have info leaked that is entirely on you.
