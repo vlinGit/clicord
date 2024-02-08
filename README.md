@@ -5,7 +5,7 @@ Discord CLI program
 I am not responsible for anything that may occur with the use of this program. If you get banned for violating TOS or have info leaked that is entirely on you.
 
 ### About
-clicord is a small project I'm working on that allows for a cli interface for discord text communication. Not really sure how advance I want this to be but the general features I want is to be able to send/delete/view messages from a specified channel in discord. 
+clicord is a small project I'm working on that allows for a cli interface for discord text communication. 
 
 ### How to use
 Click on a release version and follow the instructions to install
